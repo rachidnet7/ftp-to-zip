@@ -1,5 +1,5 @@
 <?php
-// by said
+// by Said And Rachid
 
 $sourcefolder = "./" ; // Default: "./"
 $zipfilename = "myarchiveX.zip"; // Default: "myarchive.zip"
